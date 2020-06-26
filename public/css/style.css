@@ -1,0 +1,61 @@
+
+.parallelogramme{
+    width:100%;
+    background:#000000;
+    -webkit-transform:skew(-230deg);
+    -moz-transform:skew(-230deg);
+    -o-transform:skew(-230deg);
+    tranform:skew(-230deg);
+
+}
+
+
+.blanc {font: Verdana 12px; color: #FFFFFF;
+    text-align: center;
+    font-family: "Sitka Banner";
+}
+
+
+.mondiv{
+    border-bottom:5px solid black;
+    width : 700px;
+}
+
+.myphoto {
+    height: 100%;
+    width: 100%;
+}
+img.myphoto2
+{
+    float: right;
+}
+.bordure {
+    border: 3px solid black;
+}
+div.reseau{
+    margin-left: 10%;
+    position: absolute; left: 10%;
+
+}
+
+.fleche{
+    clip-path: polygon(75% 0, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0 0);
+    background-color: #32CD32;
+    height: 29px;
+    font-size: 10px;
+    text-align: center;
+   
+}
+
+.arrow-margin{
+   margin-left: -10px;
+}
+.taille{
+    font-size: 10px;
+}
+
+.ligne{
+    border: 1px solid black;
+    
+}
+
